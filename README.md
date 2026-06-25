@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/🎨-Reverse%20Artist%20Search-6b21a8?style=for-the-badge&logoColor=white" alt="Logo" width="250" />
+  <img src="logo.png" alt="Reverse Artist Search Logo" width="180" />
   <br><br>
 
-  <h1>Reverse Artist Search (ArtTrace)</h1>
+  <h1>Reverse Artist Search</h1>
   <p>
     <strong>A dedicated, multi-engine reverse image search tool for tracking down original artists and high-resolution sources.</strong><br>
     <i>A 100% full-stack application built for artists, by artists.</i>
