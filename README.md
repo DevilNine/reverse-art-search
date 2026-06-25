@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Reverse Artist Search Logo" width="180" />
+  <img src="logo.svg" alt="Reverse Artist Search Logo" width="120" />
   <br><br>
 
   <h1>Reverse Artist Search</h1>
